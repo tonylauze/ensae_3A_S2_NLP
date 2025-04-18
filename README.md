@@ -2,6 +2,8 @@
 
 This project was completed as part of the NLP course in the 3rd year at ENSAE, supervised by Christopher KERMORVANT.
 
+`Report_Tony_Lauze` contains the pdf version of the report associated with the project.
+
 Based on the paper *Learning Word Vectors for Sentiment Analysis* by Maas et al. (2011), this project aims to compare classic machine learning algorithms (logistic regression and SVM applied to text) with more recent LLM models for binary sentiment classification (positive/negative) of movie review comments.
 
 The database used is the one introduced by Maas et al. (2011), consisting of 50,000 movie reviews equally distributed between positive and negative opinions, obtained from the IMDb website.
